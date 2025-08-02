@@ -36,6 +36,7 @@ DO  END / DO FOREVER loops
 **Funtions:**
 REXX arithamatic : ABS, MAX, MIN, TRUNC, RANDOM, COMPARE, DATATYPE
 REXX cobnversion functions: B2X, X2B, X2C, C2X, D2C, 
+FORMATING FUNCTIONS: 
 
 
 **How to debug your REXX code**
