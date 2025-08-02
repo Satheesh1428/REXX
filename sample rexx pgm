@@ -1,0 +1,4 @@
+# Write a rexx code in member of pds 
+/*REXX*/
+SAY ' THIS IS BASIC SAMPLE REXX CODE'
+EXIT
